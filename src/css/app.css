@@ -1,0 +1,47 @@
+.square{
+  stroke: #000000;
+  stroke-width: 1;
+  fill: none;
+}
+
+.poly{
+  stroke-width: 1;
+}
+
+.firstColor, .secondColor{
+  fill: #444;
+  stroke: #444;
+}
+
+.thirdColor{
+  fill: none;
+  stroke: none;
+}
+
+.light0{
+	fill: #fff0f0 !important;
+}
+.dark0{
+  	fill: #ff3232 !important;
+}
+
+.light3{
+	fill: #f0fff0 !important;
+}
+.dark3{
+  	fill: #008000 !important;
+}
+
+.light2{
+	fill: #e3e3ff !important;
+}
+.dark2{
+  	fill: #3232ff !important;
+}
+
+.light1{
+	fill: #ffeac4 !important;
+}
+.dark1{
+  	fill: #ffa500 !important;
+}
