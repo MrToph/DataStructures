@@ -106,6 +106,12 @@ export class ArrayDynamicTests {
     this.log(arr);
     arr.remove(0);
     this.log(arr);
+    for (let i = 0; i < 13; i++) {
+      arr.remove(0);
+      this.log(arr);
+    }
+    arr.insertAt(0, 0);
+    this.log(arr);
   }
 
   log (obj) {
